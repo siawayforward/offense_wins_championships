@@ -47,12 +47,12 @@ This file lists the column keys for each dataset used or retrieved in this proje
 
 ### Season Breakdown of Career, Regular, and Post season records
 
-Current season, regular season = CR
-Current season, playoffs = CP
-Franchise, regular season = FR
-Franchise, playoff = FP
-Career regular season (experience) = Car
-Career playoffs = Car.P
+Current season, regular season = CR  
+Current season, playoffs = CP  
+Franchise, regular season = FR  
+Franchise, playoff = FP  
+Career regular season (experience) = Car  
+Career playoffs = Car.P  
 
 - Coach - Name of the team's coach
 - Team - Team the coach works for (see team key notes below)
