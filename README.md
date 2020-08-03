@@ -17,8 +17,9 @@ This project aims to investigate this by looking into the last decade of NBA cha
 - Have Jupyter notebooks compatibility with your machine and editor of choice; either with [Anaconda or miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html) for a lighter download.
 - Download the all `.ipynb` files from this repository, and run in this order
 
-> `import_clean.ipynb` to scrape and read html tables and clean them before exploring data features
-> `EDA_missing_vals.ipynb` to explore missing feature values, and see documentation (on Jupyter notebook) on how decisions were made to handle the missing data
+> - `import_clean.ipynb` to scrape and read html tables and clean them before exploring data features
+> - `data_wrangling.ipynb` to explore missing feature values, and see documentation (on Jupyter notebook) on how decisions were made to handle the missing data
+> - `EDA_finals.ipynb` to see descriptive statistics and correlations for data on finals appearing teams from the last decade
 
 ### Next Steps
 
