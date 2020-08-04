@@ -23,6 +23,6 @@ This project aims to investigate this by looking into the last decade of NBA cha
 
 ### Next Steps
 
-- Exploratory Data Analysis of finally selected data from both players and coaches tables
+- Exploratory Data Analysis of selected data from both players and coaches tables
 - Explore player seasonal statistics for the last ten finals appearing teams (20 teams)
 - Extract feature importances and determine best model representations of data
